@@ -1,0 +1,31 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EveTradeAnalyseSystem", "EveTradeAnalyseSystem\EveTradeAnalyseSystem.vbproj", "{D66B1E29-274B-48AC-8509-76E2A06A3F44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D66B1E29-274B-48AC-8509-76E2A06A3F44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D66B1E29-274B-48AC-8509-76E2A06A3F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D66B1E29-274B-48AC-8509-76E2A06A3F44}.Debug|x64.ActiveCfg = Debug|x64
+		{D66B1E29-274B-48AC-8509-76E2A06A3F44}.Debug|x64.Build.0 = Debug|x64
+		{D66B1E29-274B-48AC-8509-76E2A06A3F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D66B1E29-274B-48AC-8509-76E2A06A3F44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D66B1E29-274B-48AC-8509-76E2A06A3F44}.Release|x64.ActiveCfg = Release|x64
+		{D66B1E29-274B-48AC-8509-76E2A06A3F44}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71E80F76-3869-4084-BFBF-03F6A390BB82}
+	EndGlobalSection
+EndGlobal
